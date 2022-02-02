@@ -360,7 +360,6 @@ span.fr-img-caption.fr-view {
       float: right;
       margin: 5px 0 5px 5px;
       max-width: calc(100% - 5px); }
-/*end-commonstyles library*//*begin-commonstyles library*/@charset "UTF-8";
 
 /*!
  * animate.css -https://daneden.github.io/animate.css/
@@ -19062,7 +19061,7 @@ a.pswp__share--download:hover {
   position: fixed;
   right: 0;
   left: 0;
-  z-index: 1;
+  z-index: 50;
 }
 .u-hover-box {
   overflow: hidden;
@@ -22902,7 +22901,7 @@ a.u-link.u-hover-palette-2-light-2:hover {
 .u-container-layout.u-palette-2-light-3:before,
 .u-table-alt-palette-2-light-3 tr:nth-child(even) {
   color: #111111;
-  background-color: #fbeced;
+  background-color: #f398b9;
 }
 .u-button-style.u-palette-2-light-3,
 .u-button-style.u-palette-2-light-3[class*="u-border-"] {
@@ -34347,7 +34346,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #ee6810;
+            background-color: #fd347d;
         }
 
         .u-button-style.u-custom-color-2,
@@ -34407,8 +34406,8 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-2,
         .u-separator-custom-color-2:after
         {
-            border-color: #ee6810;
-            stroke: #ee6810;
+            border-color: #d04678;
+            stroke: #d04678;
         }
 
         .u-button-style.u-border-custom-color-2
@@ -34457,7 +34456,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: #ee6810 !important;
+            color: #d04678 !important;
         }
 
         a.u-button-style.u-text-custom-color-2:hover,
@@ -34834,7 +34833,7 @@ a.u-link.u-text-hover-grey-90:hover {
   vertical-align: -2px;
 }
 .u-header .u-section-row-2 {
-  background-image: linear-gradient(#ee6810, white);
+  background-image: linear-gradient(white, white);
 }
 
 .u-header .u-sheet-2 {
